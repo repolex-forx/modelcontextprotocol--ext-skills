@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "ext-skills",
+  "versions": [
+    {
+      "commit": "167da6c0d42c247a8f8470228a10ca711e3f6c45",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:05:30.409899+00:00"
+    }
+  ]
+}
